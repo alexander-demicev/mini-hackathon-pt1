@@ -1,0 +1,7 @@
+# Bulls and cows
+
+Peter and Joe often play different logical games. Recently Peter told the new Vaasa game "bulls and cows" and now they are playing this game for days. The essence of the game is very simple: Peter makes a four-digit number consisting of the various digits. Vasya guesses conceived Petya number fingering options. Every time Joe offers its version number, and Petya makes Vasya hint: reports the number of bulls and cows, followed by Vasja given clues continues to otgadyvanie number until you guess. Bulls is the number of digits in the number, They proposed matching by value and standing in the correct position in relation of Petya. Cows-number of digits have the same value but are in the wrong position. For example, if the number of planned Pete 5671, and Vasya suggested 7251, the number of bulls is equal to 1 (only 1 digit in its place), and the number of cows is equal to 2 (only numbers 5 and 7 are not in their seats). Peter is good at math, but even he might be wrong. Help Pete write a program that would zagadannomu Petya and proposed They numbers reported the number of bulls and cows.
+
+In a single line of input file INPUT. TXT recorded two four-digit natural numbers A and B through the gap where a hidden Petya, and in-They proposed option.
+
+In the output file OUTPUT. TXT FILE you want to display two integers separated by a space — the number of bulls and cows.
