@@ -1,4 +1,4 @@
-# Real type coding session
+# Real time coding session
 
 Create a JS code editor, that allows 2 people share their workspace with team members and collaborate on code in real time.
 You are allowed to use any frameworks and libraries. The more features you add, the better! You can inspire with this atom
