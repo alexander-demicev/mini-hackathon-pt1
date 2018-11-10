@@ -14,8 +14,6 @@ OUTPUT file, write down a single number - the minimum amount of energy that the 
 
 | INPUT                             | OUTPUT                 |
 |-----------------------------------|------------------------|
-| 3     	                        | 9                      |
-| 1 5 10                            |                        |
-| 3     	                        | 3                      |
-| 1 5 2		                        |                        |
+| 3<br>1 5 10                       | 9                      |
+| 3<br>1 5 2                        | 3                      |
 

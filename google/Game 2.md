@@ -10,6 +10,6 @@ OUTPUT File, output 1 if the first player wins, 2 if the second player wins, and
 
 | INPUT                             | OUTPUT                 |
 |-----------------------------------|------------------------|
-| 4  3 2 5 4                        | 1                      |
-| 6  5 5 5 5 5 5                    | 0                      |
+| 4<br>3 2 5 4                      | 1                      |
+| 6<br>5 5 5 5 5 5                  | 0                      |
 

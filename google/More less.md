@@ -10,5 +10,5 @@ OUTPUT Write in the output file one character “&lt;”, if A &lt; B, “&gt;�
 
 | INPUT                             | OUTPUT                 |
 |-----------------------------------|------------------------|
-| 5  7                              | &lt;                   |
-| -7  -12                           | &gt;                   |
+| 5<br>7                            | &lt;                   |
+| -7<br>-12                         | &gt;                   |

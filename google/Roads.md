@@ -8,6 +8,6 @@ INPUT The first line of the input file contains the number N (0 ≤ N ≤ 100). 
 OUTPUT In the output file you need to display a number that determines the number of roads on the planet &quot;Snowflake&quot;.
 
 
-| INPUT                                                      | OUTPUT                 |
-|------------------------------------------------------------|------------------------|
-| 5  0 1 0 0 0  1 0 1 1 0  0 1 0 0 0  0 1 0 0 0  0 0 0 0 0   | 3                      |
+| INPUT                                                              | OUTPUT                 |
+|--------------------------------------------------------------------|------------------------|
+| 5<br>0 1 0 0 0<br>1 0 1 1 0<br>0 1 0 0 0<br>0 1 0 0 0<br>0 0 0 0 0 | 3                      |

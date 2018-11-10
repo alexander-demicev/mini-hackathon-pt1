@@ -10,7 +10,7 @@ INPUT The first line of the input file contains two integers: n (1 ≤ n ≤ 105
 OUTPUT In the output file output &quot;YES&quot; if the encryption contains the secret base number, and &quot;NO&quot; otherwise.
 
 
-| INPUT               | OUTPUT                 |
-|---------------------|------------------------|
-| 10 5  0123456789    | NO                     |
-| 13 2  0123400056789 | YES                    |
+| INPUT                 | OUTPUT                 |
+|-----------------------|------------------------|
+| 10 5<br>0123456789    | NO                     |
+| 13 2<br>0123400056789 | YES                    |
