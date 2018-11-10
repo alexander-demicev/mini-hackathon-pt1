@@ -4,6 +4,6 @@ We say that the number a is better than the number b if the sum of digits a is g
 
 Given the number n. Find such its divisor d (the number n and the unit itself are considered divisors of the number n) that any other divisor c of the number n is better than d.
 
-The first line of the input file INPUT.TXT contains an integer n (1 ≤ n ≤ 105000).
+INPUT contains an integer n (1 ≤ n ≤ 105000).
 
-In the output file OUTPUT.TXT output the answer to the problem.
+OUTPUT output the answer to the problem.
