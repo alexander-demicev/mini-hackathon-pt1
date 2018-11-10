@@ -1,7 +1,16 @@
 # Numbers
+## Complexity 40%
 
-It is required to find the smallest positive integer Q such that the product of its digits is equal to the given number N.
+Find the smallest positive integer Q such that the product of its digits is equal to the given number N.
 
-The single line of the input file INPUT.TXT contains one integer N (0 ≤ N ≤ 109).
+INPUT contains one integer N
 
-In the output file OUTPUT.TXT you need to output the desired number Q. In the event that such a number does not exist, you should output -1.
+TXT number Q, if such a number does not exist, you should output -1.
+
+
+
+| INPUT                             | OUTPUT                 |
+|-----------------------------------|------------------------|
+| 10                                | 25                     |
+| 13                                | -1                     |
+| 90                                | 259                    |

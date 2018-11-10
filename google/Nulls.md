@@ -1,7 +1,13 @@
 # Nulls
+## Complexity 16%
 
-It is required to find the longest continuous chain of zeros in the sequence of zeros and ones.
+Find the longest chain of zeros in the sequence of zeros and ones.
 
-The only line of the input file INPUT.TXT contains a sequence of zeros and ones (without spaces). The total number of digits from 1 to 100.
+INPUT contains a sequence of zeros and ones (without spaces). The total number of digits from 1 to 100.
 
-In the single line of the output file OUTPUT.TXT you need to output the desired length of the chain of zeros.
+OUTPUT you need to output the desired length of the chain of zeros.
+
+
+| INPUT                             | OUTPUT                 |
+|-----------------------------------|------------------------|
+| 00101110000110                    | 4                      |

@@ -1,7 +1,13 @@
 # Statistics
+## Complexity 44%
 
-Vasya does not like English, but every time he tries to get at least four to a quarter in order to remain a drummer. In the current quarter, Vasya noticed the following pattern: on odd days of the month he received triples, and on even days - fours. He also remembers on which days he received these estimates. Therefore, he wrote out on paper all these days in order to estimate how many triples he has and how many fours he has. Help Vasya do this by arranging even and odd numbers in different lines. Vasya can count on a rating of 4 if the fours are not less than threes.
+Vasya does not like English, but he tries to get at least 4. In the current semester, Vasya noticed the following pattern: on odd days of the month he received 3, and on even days - 4. He also remembers on which days he received these marks. Therefore, he wrote out on paper all these days in order to calculate how many 3 he has and how many 4 he has. Help Vasya do this by arranging even and odd numbers in different lines. Vasya can count on getting mark 4 if the is not less than 3 than 4.
 
-The first line of the input file INPUT.TXT contains a single number N - the number of elements of the integer array (1 ≤ N ≤ 100). The second line contains N numbers representing the given array. Each element of the array is a natural number from 1 to 31. All elements of the array are separated by a space.
+INPUT contains N numbers representing the given array. Each element of the array is a natural number from 1 to 31.
 
-In the first line of the output OUTPUT.TXT file, you need to output the numbers that correspond to the days of the months in which Vasya received triples, and in the second line, respectively, arrange the dates of the month in which Vasya received fours. In the third line, output “YES”, if Vasya can count on four, and “NO” otherwise. In each line of the number should be displayed in the same order in which they go in the input data. When outputting, numbers are separated by a space.
+OUTPUT the numbers that correspond to the days of the months in which Vasya received triples, respectively, arrange the dates of the month in which Vasya received 4. Then, output “YES”, if Vasya can count on 4, and “NO” otherwise. In each line of the number should be displayed in the same order in which they go in the input data.
+
+| INPUT                             | OUTPUT                           |
+|-----------------------------------|----------------------------------|
+| 4 16 19 31 2	                    | [[19 31], [4 16 2], 'YES']       |
+| 29 4 7 12 15 17 24 1	            | [[29 7 15 17 1], [4 12 24], 'NO']|
